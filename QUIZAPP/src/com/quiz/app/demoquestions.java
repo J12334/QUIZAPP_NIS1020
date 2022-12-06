@@ -1,5 +1,5 @@
 package com.quiz.app;
-
+/* make in a layered architecture with packages instead of single package*/
 import java.util.Random;
 import java.util.Scanner;
 
